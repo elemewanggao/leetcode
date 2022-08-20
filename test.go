@@ -1,10 +1,7 @@
 public class Solution {
 private int[] index;
-
 private int[] temp;
-
 private int[] tempIndex;
-
 private int[] ans;
 
 public void Merge(int[] a, int l, int mid, int r)
