@@ -4,6 +4,7 @@ private int[] temp;
 private int[] tempIndex;
 private int[] ans;
 
+// 增加注释
 public void Merge(int[] a, int l, int mid, int r)
 {
 int i = l, j = mid + 1, p = l;
